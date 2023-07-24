@@ -1,0 +1,6 @@
+deb http://archive.debian.org/debian/ jessie main
+deb-src http://archive.debian.org/debian/ jessie main
+deb http://archive.security.debian.org/ jessie/updates main
+deb-src http://archive.security.debian.org/ jessie/updates main
+deb http://archive.debian.org/debian/ jessie-backports main
+deb-src http://archive.debian.org/debian/ jessie-backports main
